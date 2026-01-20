@@ -1,7 +1,9 @@
 🛡️ RakshaUID: Identity Defense System
+
 RakshaUID is an advanced AI-powered identity verification platform designed to detect Aadhaar fraud. It combines Deep Learning (CNN), Optical Character Recognition (OCR), and Biometric Face Verification into a strict 3-stage security workflow to ensure only authentic identities are verified.
 
 🚀 Key Features
+
 🔍 3-Stage Verification Workflow:
 
 Document Analysis: Uses a trained CNN Model (TensorFlow) to distinguish valid Aadhaar cards from non-Aadhaar documents.
